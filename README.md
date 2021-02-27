@@ -16,7 +16,7 @@ As I said, I really love Web Development and now I'm focused in three different 
 
 ## 👽 Wanna Chat? 
 💭 Text me on @: 
-- [My Linkedin]:(https://www.linkedin.com/in/henriquecmachado/)
+- [My Linkedin](https://www.linkedin.com/in/henriquecmachado/)
 - If you like to talk about: Stranger Things, DARK, Action Movies, Design and more, find me on [Twitter]()
 
 
