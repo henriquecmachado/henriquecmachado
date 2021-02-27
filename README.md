@@ -12,7 +12,7 @@ As I said, I really love Web Development and now I'm focused in three different 
 ## ❤ Things that I love
 - Finances: personal finances in espefically
 - Food: special candies
-- Learn New Languaegs: My best choice to learn was English and I'm really to reached an Advanced Level in this language. 
+- Learn New Languaegs: My best choice to learn was English and I'm really happy to reached an Advanced Level in this language. 
 
 ## 👽 Wanna Chat? 
 💭 Text me on @: 
