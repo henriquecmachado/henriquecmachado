@@ -2,9 +2,9 @@
 My name's Henrique C. Machado and I'm a Student of Web Development. I started my journey in Programming on Aug/2020 and after that and I'm seeing how incredible is the technologies in our lives. 
 
 ## 😍 What I Love About Programming? 
-As I said, I really love Web Development and now I'm focused in three different aspects of this incredible area: 
+As I said, I really love Web Development and now I'm focused in four different aspects of this incredible area: 
 
-- 1️⃣ HTML, CSS and JavaScript: The fundamentals are the core of good applications. If you know the basic, you're able to create amazing thins with Programming. 
+- 1️⃣ HTML, CSS and JavaScript: The fundamentals are the core of good applications. If you know the basic, you're able to create amazing things with Programming. 
 - 2️⃣ ReactJS for Web Development
 - 3️⃣ React Native for mobile applications
 - 4️⃣ And last, Node.js for backend applications.   
