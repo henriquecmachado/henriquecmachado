@@ -14,6 +14,10 @@ As I said, I really love Web Development and now I'm focused in four different a
 - Food: special candies
 - Learn New Languaegs: My best choice to learn was English and I'm really happy to reached an Advanced Level in this language. 
 
+## Do you wanna see a compilation of my ten best Projects? 
+I'll be really happy if you set aside a time to see my abilities! 
+[Here](https://linktr.ee/hcastromachado)
+
 ## 👽 Wanna Chat? 
 💭 Text me on @: 
 - [LinkedIn](https://www.linkedin.com/in/henriquecmachado/) - I Love LinkedIn 🤩
