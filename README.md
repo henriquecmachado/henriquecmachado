@@ -6,14 +6,14 @@ Besides me, I'm very curios person in everything I do and learn. I'm really pass
 
 One of my objectives is reach the open source community positively 🦸. 
 
-## Languages and Projects🕹️
+# Languages and Projects🕹️
 I'm currently studying and creating projects in four Front-End technologies: HTML, CSS/SASS, Javascript ES6 and ReactJS. 
 
 Here, we can see my **10 best projects** (or portfolio - you name it!). I created all of these projects with enthusiasm, passion and a lot of studies - Repository Link ((if you click in link, you'll redirectly for a repo that contains the projects) . To see the projects working, you can click in the Live Demo link, available in each repository. 
 
 Feel free to fork, contribute and upgrade those projects 🖖
 
-## Goals🚀
+# Goals🚀
 
 - 😍 Looking for my first experience in front-end development.
 - 📚 Contribute more and more to the Open Source Comunnity in the world. 
