@@ -16,10 +16,10 @@ Here, we can see my **10 best projects** (or portfolio - you name it!). I create
 
 # Goals🚀
 
-[] 😍 Looking for my first experience in front-end development.
-[] 📚 Contribute more and more to the Open Source Comunnity in the world. 
-[] 🎯 Finish my own website and blog as soon as possible.
-[] ☕ Not less important: buy a machine coffee.
+- 😍 Looking for my first experience in front-end development.
+- 📚 Contribute more and more to the Open Source Comunnity in the world. 
+- 🎯 Finish my own website and blog as soon as possible.
+- ☕ Not less important: buy a machine coffee.
 
 
 **Made with love to the open source community**❤️
