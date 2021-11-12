@@ -1,6 +1,6 @@
 # Hello 👋 My name's Henrique!
 
-I'm currently a SAP Support Analyst. 
+I'm currently a **SAP Support Analyst**. 
 
 Besides me, I'm very curios person in everything I do and learn. I'm really passionate about technology and how it has been changing the world in all aspects. I'm currently creating my own website and blog to reach more people and help others software developers around the world with articles and code projects. 
 
