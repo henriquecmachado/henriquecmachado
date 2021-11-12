@@ -10,7 +10,7 @@ One of my objectives is reach the open source community positively 🦸.
 
 💻 I'm currently studying and creating projects in four Front-End technologies: **HTML, CSS/SASS, Javascript ES6 and ReactJS**. 
 
-Here, we can see my **10 best projects** (or portfolio - you name it!). I created all of these projects with enthusiasm, passion and a lot of studies - [Repository Link]() (if you click in link, you'll redirectly for a repository that contains the projects). To see the projects working, you can click in the **Live Demo link** available in each repository. 
+[Here](), we can see my **10 best projects** (or portfolio - you name it!). I created all of these projects with enthusiasm, passion and a lot of studies. To see the projects working, you can click in the **Live Demo link** available in each repository. 
 
 **Feel free to fork, contribute and upgrade those projects** 🖖
 
